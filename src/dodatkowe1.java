@@ -1,0 +1,2 @@
+public class dodatkowe1 {
+}
